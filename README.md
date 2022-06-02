@@ -1,0 +1,2 @@
+# galaxyware
+kişisel site
